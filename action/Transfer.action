@@ -1,0 +1,12 @@
+#goal
+string product_id
+string address
+uint32 port
+string target
+---
+#result
+bool success
+string error
+---
+#feedback
+string state

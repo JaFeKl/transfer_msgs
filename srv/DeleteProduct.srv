@@ -1,0 +1,4 @@
+string product_id
+---
+bool success
+string error

@@ -1,0 +1,2 @@
+geometry_msgs/Point center
+transfer_msgs/BoundingBox boundingBox

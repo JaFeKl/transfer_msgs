@@ -1,0 +1,1 @@
+transfer_msgs/WorkspaceProduct[] products

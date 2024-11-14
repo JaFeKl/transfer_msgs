@@ -1,0 +1,11 @@
+# This message is defined to be used to drive the AgiProbot vehicle to a global navigation goal
+
+#goal
+string stationName
+---
+#result
+bool success
+string error
+---
+#feedback
+string state

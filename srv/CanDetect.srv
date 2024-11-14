@@ -1,0 +1,3 @@
+transfer_msgs/BoundingBox bounding_box
+---
+bool can_detect

@@ -1,0 +1,5 @@
+string old_product_id
+transfer_msgs/Product edited_product
+---
+bool success
+string error

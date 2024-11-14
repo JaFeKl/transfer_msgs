@@ -1,0 +1,13 @@
+# The simple transfer assumes there is one product on the TM/TU and the corresponding module is empty
+
+#goal
+string address
+int32 port
+string target   # Either STATION or TRANSPORTMODULE
+---
+#result
+bool success
+string error
+---
+#feedback
+string state

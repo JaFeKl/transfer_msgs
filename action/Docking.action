@@ -1,0 +1,11 @@
+# This message is defined to be used to dock the AgiProbot vehicle to a given station. We expect the vehicle to be already in front of the correspongind station
+
+#goal
+string stationName
+---
+#result
+bool success
+string error
+---
+#feedback
+string state

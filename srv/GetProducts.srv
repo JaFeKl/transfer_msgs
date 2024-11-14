@@ -1,0 +1,4 @@
+---
+bool success
+string error
+transfer_msgs/ConveyorProductList products
